@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Luna</string>
+    <string name="widget_quick_log_title">Suivi du jour</string>
+    <string name="widget_quick_log_water">+ Eau</string>
+    <string name="widget_quick_log_mood">Humeur calme</string>
+    <string name="widget_quick_log_symptom">Crampes</string>
+    <string name="launcher_luna">Luna</string>
+    <string name="launcher_notes">Notes</string>
+    <string name="launcher_planner">Agenda</string>
+    <string name="biometric_title">Déverrouiller Luna</string>
+    <string name="biometric_subtitle">Votre journal de cycle reste privé</string>
+    <string name="biometric_cancel">Annuler</string>
+</resources>

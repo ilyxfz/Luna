@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">لونا</string>
+    <string name="widget_quick_log_title">تسجيل اليوم</string>
+    <string name="widget_quick_log_water">+ ماء</string>
+    <string name="widget_quick_log_mood">مزاج هادئ</string>
+    <string name="widget_quick_log_symptom">تقلصات</string>
+    <string name="launcher_luna">لونا</string>
+    <string name="launcher_notes">ملاحظات</string>
+    <string name="launcher_planner">مخطط</string>
+    <string name="biometric_title">إلغاء قفل لونا</string>
+    <string name="biometric_subtitle">سجل دورتك يبقى خاصًا</string>
+    <string name="biometric_cancel">إلغاء</string>
+</resources>
